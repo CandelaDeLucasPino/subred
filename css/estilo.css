@@ -93,6 +93,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    min-height: 100vh;
 }
 .main img{
     margin: 5% 0 5% 0;
@@ -168,5 +169,8 @@ color: #000000;
     justify-content: center;
     background-color: #FF822E;
     width: 100%;
-    height: 40vh;
+    height: 30vh;
+}
+.logofooter{
+    width: 10%;
 }
